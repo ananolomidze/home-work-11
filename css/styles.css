@@ -1,4 +1,23 @@
-header p{
-    padding-left: 30px;
+p{
+    padding-left: 80px;
+    color: #5863E3;
+    font-family: Helvetica;
+font-size: 17px;
+font-weight: 700;
+padding-top: 30px;
 }
-  
+h1{
+    padding-left: 80px;
+    font-size: 49px;
+    font-weight: 400;
+    width: 400px;
+    margin-top: 20px;
+}
+.text1{
+    margin-top:40px ;
+    padding-left: 80px;
+}
+
+.text2{
+
+}
