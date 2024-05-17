@@ -67,6 +67,20 @@ height: 50px;
    
 }
 
+.flex-conteiner7{
+    display: flex;
+    margin-right: 50px;
+   padding-left: 50px;  justify-content: space-around
+}
+h6{
+    font-family: Helvetica;
+font-size: 15px;
+width: 150px;
+
+}
+.h66{
+    margin-left: 80px;
+}
 
 .flex-conteiner{
     display: flex;
@@ -229,4 +243,7 @@ margin-bottom: 20px;
     width: 42px;
     height: 42px;
     
+ }
+ .flex-conteiner4 i{
+    color: #5863E3;
  }
